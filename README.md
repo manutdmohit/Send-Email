@@ -2,6 +2,7 @@
 Backend to send email Using  Nodemailer and Send Grid.
 
 - Create a .env file in the root:
+- To get email,password,host name, port number from Etheral. Go to https://ethereal.email/ and click Create Etheral Account
 - For nodemailer create variables as shown below:
   ```
    HOST_NAME:YOUR ETHERAL USERNAME
